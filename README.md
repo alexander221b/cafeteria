@@ -1,6 +1,6 @@
 # cafeteria
 
-PHP nativo. Sólo necesita Apache y MySQL para funcionar.
+PHP nativo. Sólo necesita Apache y un motor de base de datos para funcionar.
 
 Descripción
 
